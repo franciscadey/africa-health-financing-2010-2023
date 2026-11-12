@@ -1,0 +1,2 @@
+country_code,indicator,year,original_value,new_wdi_extract_value,difference,finding
+CAF,SH.DYN.MORT,2022,424.6,424.6,0.0,Exact agreement between supplied original and new WDI extract

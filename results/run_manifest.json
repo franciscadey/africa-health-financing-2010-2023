@@ -1,0 +1,12 @@
+{
+  "source_sha256": "897538931226bf42f78c555529b40b18f02308f9c885ac5e3eaca1c0401abd23",
+  "worksheet": "Data (2)",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.2",
+    "statsmodels": "0.14.6",
+    "openpyxl": "3.1.5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "review_date": "2026-11-11",
+  "source_workbook_sha256": "897538931226bf42f78c555529b40b18f02308f9c885ac5e3eaca1c0401abd23",
+  "received_notebook_sha256": "676c4d65a3efd9d30d114c41e8dc00f00504ebbcaa235a91b393637e0ad691bb",
+  "models": "exported from received Colab run; independently reconciled",
+  "organized_notebook_execution": "PASS: fresh kernel, 17 code cells, 2026-11-11",
+  "package_versions_of_colab_run": "not recorded; local tested versions in results/run_manifest.json and requirements-lock-windows.txt",
+  "schema_validation": "PASS",
+  "colab_result_reconciliation": "PASS: six tables, tolerance 1e-8",
+  "wdi_consistency": "84/84 exact"
+}
